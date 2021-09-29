@@ -1,7 +1,7 @@
 {
-    "IsOnBoarding":true,
-    "YearlyHeader":"Yearly Subscription",
-    "YearlyContext":"Our most popular and best value Good Food subscription. Save 30% on monthly plan",
-    "MonthlyHeader":"Monthly Subscription",
-    "MonthlyContext":"Our most flexible Good food subscription"
+    "IsOnBoarding": true,
+    "YearlyHeader": "Annual Subscription",
+    "YearlyContext": "Choose our most popular and best value subscription. Save 30% on this plan.",
+    "MonthlyHeader": "Monthly Subscription",
+    "MonthlyContext": "Pay monthly"
 }
