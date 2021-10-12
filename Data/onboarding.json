@@ -1,7 +1,7 @@
 {
     "IsOnBoarding": true,
-    "YearlyHeader": "Annual Subscription",
-    "YearlyContext": "Choose our most popular and best value subscription. Save 30% on this plan.",
-    "MonthlyHeader": "Monthly Subscription",
-    "MonthlyContext": "Pay monthly"
+    "YearlyHeader": "[$price]/year (save 54%)",
+    "YearlyContext": "First [$offer] free",
+    "MonthlyHeader": "[$price]/month",
+    "MonthlyContext": "First [$offer] free"
 }
