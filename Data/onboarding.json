@@ -1,7 +1,7 @@
 {
     "IsOnBoarding": true,
     "YearlyHeader": "{yearlyPrice}/year (save 54%)",
-    "YearlyContext": "First {yearlyOffer} free",
+    "YearlyContext": "First {yearlyOffer} FREE",
     "MonthlyHeader": "{monthlyPrice}/month",
-    "MonthlyContext": "First {monthlyOffer} free"
+    "MonthlyContext": "First {monthlyOffer} FREE"
 }
